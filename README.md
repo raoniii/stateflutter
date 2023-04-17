@@ -1,6 +1,6 @@
 # estudostate
 
-A new Flutter project.
+Estudando o design partner bloc + cubit
 
 ## Getting Started
 
